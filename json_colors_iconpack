@@ -1,0 +1,40 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10031929/27c6cb1e-6180-11e5-8ded-b95557ce87f1.jpg",
+			"name": "wallpaper_1_cosmo"
+		},
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10060561/eb4e4040-6251-11e5-8e94-afa2a3fb7637.jpg",
+			"name": "wallpaper_2_cosmo"
+		},
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10060569/ff7a46ea-6251-11e5-8fff-efdb89e57004.jpg",
+			"name": "wallpaper_3_cosmo"
+		},
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10031977/84ae775a-6180-11e5-9ca2-859731fbd54e.jpg",
+			"name": "wallpaper_4_cosmo"
+		},
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10060579/1529d942-6252-11e5-85d1-9dbd9a73e75f.jpg",
+			"name": "wallpaper_6_cosmo"
+		},
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10032039/d9c21666-6180-11e5-9f15-a84433a39b0c.jpg",
+			"name": "wallpaper_7_cosmo"
+		},
+		{
+			"author": "Someone",
+			"url": "https://cloud.githubusercontent.com/assets/13888072/10032084/2910643e-6181-11e5-8bea-2a4907d4c5bd.jpg",
+			"name": "wallpaper_8_cosmo"
+		}
+	]
+}

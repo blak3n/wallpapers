@@ -1,40 +1,319 @@
-{ 
-"wallpapers": 
-	[
+{
+	"wallpapers": [
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10031929/27c6cb1e-6180-11e5-8ded-b95557ce87f1.jpg",
-			"name": "wallpaper_1_cosmo"
+			"name": "wa1",
+			"author": "",
+			"url": "wa1.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		},
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10060561/eb4e4040-6251-11e5-8e94-afa2a3fb7637.jpg",
-			"name": "wallpaper_2_cosmo"
+			"name": "wa10",
+			"author": "",
+			"url": "wa10.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		},
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10060569/ff7a46ea-6251-11e5-8fff-efdb89e57004.jpg",
-			"name": "wallpaper_3_cosmo"
+			"name": "wa11",
+			"author": "",
+			"url": "wa11.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		},
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10031977/84ae775a-6180-11e5-9ca2-859731fbd54e.jpg",
-			"name": "wallpaper_4_cosmo"
+			"name": "wa12",
+			"author": "",
+			"url": "wa12.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		},
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10060579/1529d942-6252-11e5-85d1-9dbd9a73e75f.jpg",
-			"name": "wallpaper_6_cosmo"
+			"name": "wa13",
+			"author": "",
+			"url": "wa13.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		},
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10032039/d9c21666-6180-11e5-9f15-a84433a39b0c.jpg",
-			"name": "wallpaper_7_cosmo"
+			"name": "wa14",
+			"author": "",
+			"url": "wa14.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		},
 		{
-			"author": "Someone",
-			"url": "https://cloud.githubusercontent.com/assets/13888072/10032084/2910643e-6181-11e5-8bea-2a4907d4c5bd.jpg",
-			"name": "wallpaper_8_cosmo"
+			"name": "wa15",
+			"author": "",
+			"url": "wa15.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa16",
+			"author": "",
+			"url": "wa16.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa17",
+			"author": "",
+			"url": "wa17.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa18",
+			"author": "",
+			"url": "wa18.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa19",
+			"author": "",
+			"url": "wa19.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa2",
+			"author": "",
+			"url": "wa2.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa20",
+			"author": "",
+			"url": "wa20.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa21",
+			"author": "",
+			"url": "wa21.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa22",
+			"author": "",
+			"url": "wa22.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa23",
+			"author": "",
+			"url": "wa23.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa24",
+			"author": "",
+			"url": "wa24.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa25",
+			"author": "",
+			"url": "wa25.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa26",
+			"author": "",
+			"url": "wa26.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa27",
+			"author": "",
+			"url": "wa27.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa28",
+			"author": "",
+			"url": "wa28.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa29",
+			"author": "",
+			"url": "wa29.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa3",
+			"author": "",
+			"url": "wa3.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa30",
+			"author": "",
+			"url": "wa30.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa31",
+			"author": "",
+			"url": "wa31.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa32",
+			"author": "",
+			"url": "wa32.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa33",
+			"author": "",
+			"url": "wa33.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa34",
+			"author": "",
+			"url": "wa34.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa35",
+			"author": "",
+			"url": "wa35.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa36",
+			"author": "",
+			"url": "wa36.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa37",
+			"author": "",
+			"url": "wa37.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa38",
+			"author": "",
+			"url": "wa38.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa39",
+			"author": "",
+			"url": "wa39.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa4",
+			"author": "",
+			"url": "wa4.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa40",
+			"author": "",
+			"url": "wa40.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa41",
+			"author": "",
+			"url": "wa41.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa42",
+			"author": "",
+			"url": "wa42.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa43",
+			"author": "",
+			"url": "wa43.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa44",
+			"author": "",
+			"url": "wa44.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa45",
+			"author": "",
+			"url": "wa45.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa5",
+			"author": "",
+			"url": "wa5.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa6",
+			"author": "",
+			"url": "wa6.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa7",
+			"author": "",
+			"url": "wa7.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa8",
+			"author": "",
+			"url": "wa8.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "wa9",
+			"author": "",
+			"url": "wa9.jpg",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
 		}
 	]
 }
